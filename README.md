@@ -10,3 +10,6 @@ Program maski_pluc2.py dokonuje segmentacji obrazów tworząc maski płuc, dodat
 
 p2p_test2.py
 Program trenujący i wizualizujący wyniki sieci Pix2Pix wzorowanej na tym artykule: https://www.sciencedirect.com/science/article/abs/pii/S0957417422023685
+
+
+![epoch_395](https://github.com/user-attachments/assets/92789200-ae22-4cca-89e3-04bb8fdaf962)
